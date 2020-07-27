@@ -1,2 +1,0 @@
-# intern-files
-assignments files
